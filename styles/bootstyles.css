@@ -1,0 +1,42 @@
+/*Rett Putnam 4/10/22*/
+body {
+    /*background-color: #555555;*/
+    font-family: 'Times New Roman', Times, sans-serif;
+    
+}
+
+
+
+.common {
+    *background-color: #1671ad;
+    border: solid 2px rgb(255, 255, 255);
+    position:absolute;
+}
+
+
+
+
+
+.header {
+    top:5px;
+    left:5px;
+    right:5px;
+    Height:100px;
+    z-index: 2;
+    border-bottom: solid 1px black;}
+.mbody {
+    top:114px;
+    bottom:39px;
+}.footer {
+    bottom:5px;
+    left:5px;
+    right:5px;
+    height: 25px;
+    font-size:8px;
+    color:grey;
+    text-align: center;
+    position: fixed;
+}
+.subheader {
+    float:right;
+}
